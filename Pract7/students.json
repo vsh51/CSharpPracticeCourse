@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "Name": "J. Davidson",
+    "Age": 20,
+    "CourseId": 1,
+    "Grade": 74
+  },
+  {
+    "Id": 2,
+    "Name": "J. Smith",
+    "Age": 22,
+    "CourseId": 2,
+    "Grade": 83
+  },
+  {
+    "Id": 3,
+    "Name": "S. Brown",
+    "Age": 19,
+    "CourseId": 1,
+    "Grade": 55
+  },
+  {
+    "Id": 4,
+    "Name": "E. Davis",
+    "Age": 21,
+    "CourseId": 3,
+    "Grade": 68
+  },
+  {
+    "Id": 5,
+    "Name": "M. Johnson",
+    "Age": 23,
+    "CourseId": 2,
+    "Grade": 60
+  },
+  {
+    "Id": 6,
+    "Name": "S. Wilson",
+    "Age": 20,
+    "CourseId": 1,
+    "Grade": 65
+  },
+  {
+    "Id": 7,
+    "Name": "D. Engelbach",
+    "Age": 22,
+    "CourseId": 3,
+    "Grade": 67
+  },
+  {
+    "Id": 8,
+    "Name": "L. Martinez",
+    "Age": 21,
+    "CourseId": 2,
+    "Grade": 81
+  },
+  {
+    "Id": 9,
+    "Name": "C. Garcia",
+    "Age": 19,
+    "CourseId": 1,
+    "Grade": 58
+  },
+  {
+    "Id": 10,
+    "Name": "J. Taylor",
+    "Age": 23,
+    "CourseId": 3,
+    "Grade": 95
+  }
+]
