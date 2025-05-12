@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Movies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Movie>
+    <Title>Месники фінал</Title>
+    <Genre>Комікси</Genre>
+    <Year>2023</Year>
+    <Rating>3</Rating>
+  </Movie>
+  <Movie>
+    <Title>Залізна людина</Title>
+    <Genre>Комікси</Genre>
+    <Year>2017</Year>
+    <Rating>4.6</Rating>
+  </Movie>
+</Movies>

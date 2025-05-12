@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Movies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Movie>
+    <Title>Темний лицар</Title>
+    <Genre>Бойовик</Genre>
+    <Year>2008</Year>
+    <Rating>9</Rating>
+  </Movie>
+  <Movie>
+    <Title>Мовчання ягнят</Title>
+    <Genre>Трилер</Genre>
+    <Year>1991</Year>
+    <Rating>8.6</Rating>
+  </Movie>
+</Movies>

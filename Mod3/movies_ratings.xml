@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Movies>
+  <Movie>
+    <Title>Дюна</Title>
+    <Genre>Фантастика</Genre>
+    <Year>2021</Year>
+    <Rating>8.1</Rating>
+  </Movie>
+  <Movie>
+    <Title>Темний лицар</Title>
+    <Genre>Бойовик</Genre>
+    <Year>2008</Year>
+    <Rating>9.0</Rating>
+  </Movie>
+  <Movie>
+    <Title>Мовчання ягнят</Title>
+    <Genre>Трилер</Genre>
+    <Year>1991</Year>
+    <Rating>8.6</Rating>
+  </Movie>
+  <Movie>
+    <Title>Аватар</Title>
+    <Genre>Фантастика</Genre>
+    <Year>2009</Year>
+    <Rating>7.8</Rating>
+  </Movie>
+  <Movie>
+    <Title>Месники фінал</Title>
+    <Genre>Комікси</Genre>
+    <Year>2023</Year>
+    <Rating>3</Rating>
+  </Movie>
+  <Movie>
+    <Title>Залізна людина</Title>
+    <Genre>Комікси</Genre>
+    <Year>2017</Year>
+    <Rating>4.6</Rating>
+  </Movie>
+</Movies>
